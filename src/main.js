@@ -17,6 +17,7 @@ Vue.config.productionTip = false
 const firebaseConfig = {
   apiKey: "AIzaSyBuzISeyN2BNuhuiDdz_4-F8eVY8oq-ZZQ",
   authDomain: "o2-proj.firebaseapp.com",
+  databaseURL: "https://o2-proj-default-rtdb.firebaseio.com",
   projectId: "o2-proj",
   storageBucket: "o2-proj.appspot.com",
   messagingSenderId: "495294938001",
